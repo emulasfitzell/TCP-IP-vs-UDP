@@ -43,5 +43,5 @@ Ce document présente une comparaison entre les protocoles **TCP/IP** et **UDP**
 ---
 
 ## Auteur
-- [Votre Nom ou Pseudo]
+- Emulas Fitzell 
 
